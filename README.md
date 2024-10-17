@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rushib031
-- 👀 I’m interested in app development and artificial intelligence
+- 👀 I’m interested in cyber security, front-end web development, and artificial intelligence
 - 🌱 I’m currently studying Computer Science and Engineering (CSE) at OSU
 - 💞️ I’m looking to collaborate on any fun project!
 - 📫 You can contact me by commenting on this commit
