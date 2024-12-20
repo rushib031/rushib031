@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rushib031
-- 👀 I’m interested in cyber security, front-end web development, and artificial intelligence
+- 👀 I’m interested in cyber security, artificial intelligence, and front-end web development
 - 🌱 I’m currently studying Computer Science and Engineering (CSE) at OSU
-- 💞️ I’m looking to collaborate on any fun project!
 - 📫 You can contact me via email: rushibhatt031@gmail.com
 
 <!---
